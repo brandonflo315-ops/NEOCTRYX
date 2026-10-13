@@ -1,0 +1,28 @@
+{
+  "guilds": {
+    "1557239701163737088": {
+      "allowedBots": [],
+      "antiSpam": true,
+      "antiLinks": true,
+      "antiNuke": true,
+      "logsChannelId": null,
+      "trustedUsers": [],
+      "antispam": true,
+      "antilinks": true,
+      "antinuke": true,
+      "logs": null,
+      "autorole": null,
+      "antiraid": true
+    },
+    "1546338465656995941": {
+      "allowedBots": [],
+      "trustedUsers": [],
+      "antispam": false,
+      "antilinks": false,
+      "antinuke": false,
+      "logs": "1559414062448775200",
+      "autorole": null,
+      "antiraid": false
+    }
+  }
+}
